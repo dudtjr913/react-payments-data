@@ -2,103 +2,78 @@
   "cardList": [
     {
       "cardNumber": {
-        "first": "1234",
-        "second": "1222",
-        "third": "7468",
-        "fourth": "6981"
+        "first": "3000",
+        "second": "2222",
+        "third": "9856",
+        "fourth": "1309"
       },
       "cardExpiredDate": {
         "month": "12",
         "year": "23"
       },
-      "cardOwner": "HYBAM",
-      "securityCode": "482",
+      "cardOwner": "VALLISTA",
+      "securityCode": "044",
       "cardPassword": {
-        "first": "6",
-        "second": "9"
+        "first": "3",
+        "second": "6"
       },
       "selectedCardInfo": {
-        "cardId": 4,
-        "name": "브랜 카드",
-        "color": "#DE59B9"
+        "cardId": 1,
+        "name": "포코 카드",
+        "color": "#E24141"
       },
-      "cardNickname": "hello",
-      "id": 5
+      "cardNickname": "Vallista",
+      "id": 10
     },
     {
       "cardNumber": {
-        "first": "1234",
-        "second": "1234",
-        "third": "4922",
-        "fourth": "2766"
+        "first": "5555",
+        "second": "4444",
+        "third": "4986",
+        "fourth": "3091"
       },
       "cardExpiredDate": {
-        "month": "12",
-        "year": "23"
+        "month": "09",
+        "year": "25"
       },
-      "cardOwner": "ASD",
-      "securityCode": "234",
+      "cardOwner": "DITTO",
+      "securityCode": "087",
       "cardPassword": {
-        "first": "1",
-        "second": "2"
-      },
-      "selectedCardInfo": {
-        "cardId": 5,
-        "name": "로이드 카드",
-        "color": "#94DACD"
-      },
-      "cardNickname": "zzz",
-      "id": 6
-    },
-    {
-      "cardNumber": {
-        "first": "1234",
-        "second": "1234",
-        "third": "1509",
-        "fourth": "8979"
-      },
-      "cardExpiredDate": {
-        "month": "12",
-        "year": "11"
-      },
-      "cardOwner": "AAAA",
-      "securityCode": "403",
-      "cardPassword": {
-        "first": "2",
-        "second": "4"
-      },
-      "selectedCardInfo": {
-        "cardId": 2,
-        "name": "준 카드",
-        "color": "#547CE4"
-      },
-      "cardNickname": "qwe",
-      "id": 7
-    },
-    {
-      "cardNumber": {
-        "first": "1234",
-        "second": "1234",
-        "third": "9865",
-        "fourth": "1626"
-      },
-      "cardExpiredDate": {
-        "month": "12",
-        "year": "23"
-      },
-      "cardOwner": "ZXC",
-      "securityCode": "799",
-      "cardPassword": {
-        "first": "9",
-        "second": "8"
+        "first": "7",
+        "second": "5"
       },
       "selectedCardInfo": {
         "cardId": 3,
         "name": "공원 카드",
         "color": "#73BC6D"
       },
-      "cardNickname": "qwec",
-      "id": 8
+      "cardNickname": "Ditto",
+      "id": 11
+    },
+    {
+      "cardNumber": {
+        "first": "7777",
+        "second": "6666",
+        "third": "4093",
+        "fourth": "1672"
+      },
+      "cardExpiredDate": {
+        "month": "01",
+        "year": "25"
+      },
+      "cardOwner": "POKO",
+      "securityCode": "832",
+      "cardPassword": {
+        "first": "6",
+        "second": "4"
+      },
+      "selectedCardInfo": {
+        "cardId": 8,
+        "name": "썬 카드",
+        "color": "#FBCD58"
+      },
+      "cardNickname": "POKO",
+      "id": 12
     }
   ]
 }
